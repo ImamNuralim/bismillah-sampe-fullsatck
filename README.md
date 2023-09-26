@@ -1,3 +1,3 @@
-//oke disini saya belajar ototdidak mulai dari javascript
-kaeran sebelumnya saya lumayan khatam html dan css
-dan disini saya belajar mengikuti roadmap.sh dan w3school//
+//oke disini saya belajar otodidak mulai dari javascript
+karena sebelumnya saya lumayan khatam html dan css saya akan lanjut belajar javascript
+mengikuti roadmap.sh dan w3school//
